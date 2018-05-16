@@ -3,7 +3,7 @@ Principle Singleton
 
 ### 引文
 
-> 《Design Patterns: Elements of Reusable Object-Oriented Software》（即后述《设计模式》一书）是由 Erich Gamma、Richard Helm、Ralph Johnson 和 John Vlissides 合著（Addison-Wesley，1995）。这几位作者常被称为”四人组（Gang of Four）”。
+> 《Design Patterns: Elements of Reusable Object-Oriented Software》（即后述《设计模式》一书）是由 Erich Gamma、Richard Helm、Ralph Johnson 和 John Vlissides 合著（Addison-Wesley，1995）。这几位作者常被称为”四人组（Gang of Four）。
 
 开篇引用 GoF 的示例帮助理解创建型设计模式——单例
 
