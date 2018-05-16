@@ -3,11 +3,11 @@ Principle Singleton
 
 ### 引文
 
-《Design Patterns: Elements of Reusable Object-Oriented Software》（即后述《设计模式》一书）是由 Erich Gamma、Richard Helm、Ralph Johnson 和 John Vlissides 合著（Addison-Wesley，1995）。这几位作者常被称为”四人组（Gang of Four）”。
+> 《Design Patterns: Elements of Reusable Object-Oriented Software》（即后述《设计模式》一书）是由 Erich Gamma、Richard Helm、Ralph Johnson 和 John Vlissides 合著（Addison-Wesley，1995）。这几位作者常被称为”四人组（Gang of Four）”。
 
 开篇引用 GoF 的示例帮助理解创建型设计模式——单例
 
-> SINGLETON—俺有6个漂亮的老婆，她们的老公都是我，我就是我们家里的老公Singleton，她们只要说道“老公”，都是指的同一个人，那就是我。(刚才做了个梦啦，哪有这么好的事)
+*SINGLETON—俺有6个漂亮的老婆，她们的老公都是我，我就是我们家里的老公Singleton，她们只要说道“老公”，都是指的同一个人，那就是我。(刚才做了个梦啦，哪有这么好的事)*
 
 单例模式：单例模式确保某一个类只有一个实例，而且自行实例化并向整个系统提供这个实例单例模式。单例模式只应在有真正的“单一实例”的需求时才可使用。
 
